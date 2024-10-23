@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/AgrixApplication.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/repository/CropRepository.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/repository/FertilizerRepository.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/repository/PersonRepository.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/repository/FarmRepository.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/FertilizerController.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/FarmController.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/dto/FertilizerCreationDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/dto/CropRequestDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/dto/CropDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/dto/FertilizerReturnDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/dto/FarmRequestDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/dto/FertilizerDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/controller/CropController.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/security/Role.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/entity/Fertilizer.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/entity/Crop.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/entity/Person.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/entity/Farm.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/exception/NotFoundException.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/exception/PersonNotFoundException.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/service/FertilizerService.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/service/FarmService.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/service/PersonService.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/main/java/com/betrybe/agrix/ebytr/staff/advice/GlobalControllerAdvice.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-b/src/test/resources/application-test.properties">
+</file>
+</checkstyle>
